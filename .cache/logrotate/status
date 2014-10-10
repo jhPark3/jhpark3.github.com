@@ -1,0 +1,18 @@
+logrotate state -- version 2
+"/home/joonghopark/.cache/upstart/update-notifier-crash-_var_crash__usr_sbin_unity-greeter.104.crash.log" 2014-10-8-13:7:11
+"/home/joonghopark/.cache/upstart/indicator-power.log" 2014-10-10-11:2:13
+"/home/joonghopark/.cache/upstart/unity7.log" 2014-10-10-11:2:13
+"/home/joonghopark/.cache/upstart/hud.log" 2014-10-8-13:7:11
+"/home/joonghopark/.cache/upstart/indicator-sound.log" 2014-10-10-11:2:13
+"/home/joonghopark/.cache/upstart/unity-panel-service-lockscreen.log" 2014-10-8-13:7:11
+"/home/joonghopark/.cache/upstart/update-notifier-release.log" 2014-10-10-11:2:13
+"/home/joonghopark/.cache/upstart/im-config.log" 2014-10-10-11:2:13
+"/home/joonghopark/.cache/upstart/indicator-bluetooth.log" 2014-10-10-11:2:13
+"/home/joonghopark/.cache/upstart/dbus.log" 2014-10-10-11:2:13
+"/home/joonghopark/.cache/upstart/indicator-printers.log" 2014-10-8-13:7:11
+"/home/joonghopark/.cache/upstart/unity-panel-service.log" 2014-10-10-11:2:13
+"/home/joonghopark/.cache/upstart/update-notifier-crash-_var_crash__usr_lib_i386-linux-gnu_libgtk-3-0_gtk-update-icon-cache-3.0.0.crash.log" 2014-10-8-13:7:11
+"/home/joonghopark/.cache/upstart/update-notifier-crash-_var_crash__usr_sbin_cupsd.0.crash.log" 2014-10-8-13:7:11
+"/home/joonghopark/.cache/upstart/unity-settings-daemon.log" 2014-10-10-11:2:13
+"/home/joonghopark/.cache/upstart/gnome-session-Unity.log" 2014-10-10-11:2:13
+"/home/joonghopark/.cache/upstart/window-stack-bridge.log" 2014-10-10-11:2:13
