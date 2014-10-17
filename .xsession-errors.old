@@ -1,3 +1,11 @@
+/home/joonghopark/Desktop was removed, reassigning DESKTOP to homedir
+/home/joonghopark/Downloads was removed, reassigning DOWNLOAD to homedir
+/home/joonghopark/Templates was removed, reassigning TEMPLATES to homedir
+/home/joonghopark/Public was removed, reassigning PUBLICSHARE to homedir
+/home/joonghopark/Documents was removed, reassigning DOCUMENTS to homedir
+/home/joonghopark/Music was removed, reassigning MUSIC to homedir
+/home/joonghopark/Pictures was removed, reassigning PICTURES to homedir
+/home/joonghopark/Videos was removed, reassigning VIDEOS to homedir
 Script for ibus started at run_im.
 Script for auto started at run_im.
 Script for default started at run_im.
@@ -12,6 +20,3 @@ init: at-spi2-registryd main process ended, respawning
 init: at-spi2-registryd main process ended, respawning
 init: at-spi2-registryd main process ended, respawning
 init: at-spi2-registryd respawning too fast, stopped
-init: update-notifier-crash (/var/crash/_usr_sbin_cupsd.0.crash) main process (1602) terminated with status 1
-init: update-notifier-crash (/var/crash/_usr_lib_i386-linux-gnu_libgtk-3-0_gtk-update-icon-cache-3.0.0.crash) main process (1601) terminated with status 1
-init: update-notifier-crash (/var/crash/_usr_sbin_unity-greeter.104.crash) main process (1603) terminated with status 1

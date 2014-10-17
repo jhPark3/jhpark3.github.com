@@ -1,0 +1,27 @@
+[2014-10-10 12:24:38] __rvm_set_executable
+__rvm_set_executable () 
+{ 
+    for __file in "$@";
+    do
+        [[ -x "${__file}" ]] || chmod +x "${__file}";
+    done
+}
+current path: /home/joonghopark/.rvm/src/ruby-2.0.0-p576
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/home/joonghopark/.rvm/bin
+command(9): __rvm_set_executable /home/joonghopark/.rvm/rubies/ruby-2.0.0-p576/bin/erb /home/joonghopark/.rvm/rubies/ruby-2.0.0-p576/bin/gem /home/joonghopark/.rvm/rubies/ruby-2.0.0-p576/bin/irb /home/joonghopark/.rvm/rubies/ruby-2.0.0-p576/bin/rake /home/joonghopark/.rvm/rubies/ruby-2.0.0-p576/bin/rdoc /home/joonghopark/.rvm/rubies/ruby-2.0.0-p576/bin/ri /home/joonghopark/.rvm/rubies/ruby-2.0.0-p576/bin/ruby /home/joonghopark/.rvm/rubies/ruby-2.0.0-p576/bin/testrb
+++ for __file in '"$@"'
+++ [[ -x /home/joonghopark/.rvm/rubies/ruby-2.0.0-p576/bin/erb ]]
+++ for __file in '"$@"'
+++ [[ -x /home/joonghopark/.rvm/rubies/ruby-2.0.0-p576/bin/gem ]]
+++ for __file in '"$@"'
+++ [[ -x /home/joonghopark/.rvm/rubies/ruby-2.0.0-p576/bin/irb ]]
+++ for __file in '"$@"'
+++ [[ -x /home/joonghopark/.rvm/rubies/ruby-2.0.0-p576/bin/rake ]]
+++ for __file in '"$@"'
+++ [[ -x /home/joonghopark/.rvm/rubies/ruby-2.0.0-p576/bin/rdoc ]]
+++ for __file in '"$@"'
+++ [[ -x /home/joonghopark/.rvm/rubies/ruby-2.0.0-p576/bin/ri ]]
+++ for __file in '"$@"'
+++ [[ -x /home/joonghopark/.rvm/rubies/ruby-2.0.0-p576/bin/ruby ]]
+++ for __file in '"$@"'
+++ [[ -x /home/joonghopark/.rvm/rubies/ruby-2.0.0-p576/bin/testrb ]]

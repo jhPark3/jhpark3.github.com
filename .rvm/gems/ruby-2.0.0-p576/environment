@@ -1,0 +1,8 @@
+export PATH="/home/joonghopark/.rvm/gems/ruby-2.0.0-p576/bin:/home/joonghopark/.rvm/gems/ruby-2.0.0-p576@global/bin:/home/joonghopark/.rvm/rubies/ruby-2.0.0-p576/bin:$PATH"
+export GEM_HOME='/home/joonghopark/.rvm/gems/ruby-2.0.0-p576'
+export GEM_PATH='/home/joonghopark/.rvm/gems/ruby-2.0.0-p576:/home/joonghopark/.rvm/gems/ruby-2.0.0-p576@global'
+export MY_RUBY_HOME='/home/joonghopark/.rvm/rubies/ruby-2.0.0-p576'
+export IRBRC='/home/joonghopark/.rvm/rubies/ruby-2.0.0-p576/.irbrc'
+unset MAGLEV_HOME
+unset RBXOPT
+export RUBY_VERSION='ruby-2.0.0-p576'

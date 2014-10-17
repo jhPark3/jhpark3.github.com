@@ -1,1 +1,1 @@
-{"share_inventory": false, "hostid": "615c8b28aeaf5d7ee018e33100000001", "hostname": "joonghopark-VirtualBox", "packages_checksum": "2be85ea3c41d89baca1c00d0337f3ecc3d0f6cbfa86fc91cff577cf1", "logo_checksum": "dab2fbc6250b6fea7a245e3eedb7bfdba7578d93bbc2df6c787d61271391515315.000000"}
+{"hostname": "joonghopark-VirtualBox", "share_inventory": false, "logo_checksum": "dab2fbc6250b6fea7a245e3eedb7bfdba7578d93bbc2df6c787d61271391515315.000000", "hostid": "615c8b28aeaf5d7ee018e33100000001", "packages_checksum": "ffcbd567332edb531ebd6bc8e451ba526763650fee79395a09f4c41f"}

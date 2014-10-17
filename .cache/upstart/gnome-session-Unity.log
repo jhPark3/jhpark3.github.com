@@ -1,14 +1,11 @@
 sh: 1: exec: jockey-gtk: not found
-ERROR 2014-10-10 11:16:27 unity <unknown>:0 atk_object_ref_state_set: assertion 'ATK_IS_OBJECT (accessible)' failed
-ERROR 2014-10-10 11:16:27 unity <unknown>:0 atk_state_set_contains_state: assertion 'ATK_IS_STATE_SET (set)' failed
-ERROR 2014-10-10 11:16:27 unityding->source != null <unknown>:0 g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+ERROR 2014-10-17 11:20:24 unity.settings UnitySettings.cpp:366 Invalid monitor index: -1. Returning index 0 monitor instead.
 
-(process:3049): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
-1412908621577	addons.repository	WARN	Unknown type id when parsing addon: 5
-1412908621586	addons.repository	WARN	Unknown type id when parsing addon: 5
-1412908622312	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
-1412908622783	addons.update-checker	WARN	Update manifest for webapps-team@lists.launchpad.net did not contain an updates property
-1412908622979	addons.update-checker	WARN	Update manifest for {2e1445b0-2682-11e1-bfc2-0800200c9a66} did not contain an updates property
-1412908623175	addons.update-checker	WARN	Update manifest for ubufox@ubuntu.com did not contain an updates property
-1412908623193	addons.update-checker	WARN	Update manifest for online-accounts@lists.launchpad.net did not contain an updates property
-1412908624430	addons.xpi	WARN	Exception running bootstrap method uninstall on firefox-hotfix@mozilla.org: TypeError: this._s is null (resource://firefox-hotfix/update.jsm:667:8) JS Stack trace: UpgradeManager.prototype._cleanup@update.jsm:667:9 < UpgradeManager.prototype.addonManagerUninstall@update.jsm:738:5 < uninstall@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///home/joonghopark/.mozilla/firefox/tcyog9c9.default/extensions/firefox-hotfix@bootstrap.js:80:5 < XPI_callBootstrapMethod@XPIProvider.jsm:4274:9 < XPI_uninstallAddon@XPIProvider.jsm:4515:1 < AddonWrapper_uninstall@XPIProvider.jsm:6754:5 < install/<@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///home/joonghopark/.mozilla/firefox/tcyog9c9.default/extensions/firefox-hotfix@bootstrap.js:42:7 < safeCall@AddonManager.jsm:168:5 < getAddonByID_safeCall@AddonManager.jsm:1939:13 < getAddonByID_getVisibleAddonForID@XPIProvider.jsm:3663:7 < makeSafe/<@XPIProviderUtils.js:146:17 < completeAddon@XPIProviderUtils.js:135:5 < getAddon@AddonRepository.jsm:585:7 < this.AddonRepository.getCachedAddonByID<@AddonRepository.jsm:617:5 < TaskImpl_run@Task.jsm:282:13 < TaskImpl@Task.jsm:247:3 < createAsyncFunction/asyncFunction@Task.jsm:224:7 < getRepositoryAddon@XPIProviderUtils.js:137:3 < this.XPIDatabase.getAddon/<@XPIProviderUtils.js:1091:9 < Handler.prototype.process@Promise-backend.js:863:11 < this.PromiseWalker.walkerLoop@Promise-backend.js:742:7
+(process:2754): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+1413512971505	addons.repository	WARN	Unknown type id when parsing addon: 5
+1413512971512	addons.repository	WARN	Unknown type id when parsing addon: 5
+1413512972316	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+1413512972624	addons.update-checker	WARN	Update manifest for {2e1445b0-2682-11e1-bfc2-0800200c9a66} did not contain an updates property
+1413512972802	addons.update-checker	WARN	Update manifest for webapps-team@lists.launchpad.net did not contain an updates property
+1413512973136	addons.update-checker	WARN	Update manifest for ubufox@ubuntu.com did not contain an updates property
+1413512973148	addons.update-checker	WARN	Update manifest for online-accounts@lists.launchpad.net did not contain an updates property
